@@ -1,0 +1,11 @@
+.cabecalho__titulo {
+	color: #000000;
+	font-family: Permanent Marker, cursive;
+	font-size: 4.0625rem;
+	position: absolute;
+	left: 50%;
+	top: 6%;
+	text-align: center;
+	transform: translate(-50%, -50%);
+	width: 100%;
+}

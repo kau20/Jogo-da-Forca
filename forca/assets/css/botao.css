@@ -1,0 +1,26 @@
+.iniciar-jogo:hover {
+	background: #FF8C00;
+}
+
+.iniciar-jogo a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.iniciar-jogo {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	text-align: center;
+	transform: translate(-50% , -50%);
+	width: 20%;
+	padding: 30px 0;
+	background: #FACB33;
+	font-size: 30px;
+	font-weight: bold;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+	box-shadow: 3px 3px 0 3px #FF8C00;
+}
